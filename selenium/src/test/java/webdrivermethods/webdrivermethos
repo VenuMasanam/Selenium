@@ -1,0 +1,11 @@
+Webdriver Methods
+get()->void
+getTitle()->String
+getPageSource()String
+close()void
+quit()void
+Manage()Options
+Navigate()Navigation
+switchTo()TargetLocator
+getWindowHandle()String
+getWindowHandles()Set<String>
